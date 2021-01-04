@@ -1,0 +1,10 @@
+com\travelport\record\test\httpclient\TestGetEmployeeDetails.class
+com\travelport\record\test\httpclient\TestGetAllEmployeeDetails.class
+com\travelport\record\test\resttemplate\TestGetEmployeeData.class
+com\travelport\record\test\resttemplate\TestUpdateEmployeeData.class
+com\travelport\record\test\restassured\TestGetAllEmployee.class
+com\travelport\record\test\parent\TestParent.class
+com\travelport\record\test\restassured\TestGetEmployee.class
+com\travelport\record\test\httpclient\TestUpdateEmployeeDetails.class
+com\travelport\record\test\resttemplate\TestGetAllEmployeeData.class
+com\travelport\record\test\restassured\TestUpdateEmployee.class
